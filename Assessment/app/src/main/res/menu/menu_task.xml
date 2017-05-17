@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codekorun.delivery.food.foodtriph.view.activitites.CreateAccountActivity">
+    <item
+        android:id="@+id/action0"
+        android:orderInCategory="100"
+        android:title="@string/new_task"
+        app:showAsAction="always" />
+</menu>
+

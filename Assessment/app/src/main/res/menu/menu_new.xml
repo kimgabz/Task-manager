@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codekorun.delivery.food.foodtriph.view.activitites.CreateAccountActivity">
+    <item
+        android:id="@+id/edit"
+        android:title="Edit"
+        android:orderInCategory="101"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/delete"
+        android:title="Delete"
+        android:orderInCategory="102"
+        app:showAsAction="never">
+    </item>
+</menu>
+
